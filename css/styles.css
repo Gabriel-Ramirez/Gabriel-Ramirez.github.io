@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+    color: white;
+}
+
+#desarrollo {
+    padding: 2%;
+    margin: 1%;
+    text-align: center;
+}
